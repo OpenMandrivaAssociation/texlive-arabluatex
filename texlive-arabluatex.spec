@@ -1,6 +1,6 @@
 Name:		texlive-arabluatex
 Version:	54512
-Release:	1
+Release:	2
 Summary:	ArabTeX for LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabluatex
