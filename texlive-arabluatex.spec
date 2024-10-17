@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	ArabTeX for LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabluatex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arabluatex
 License:	gpl3+ cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabluatex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabluatex.doc.r%{version}.tar.xz
